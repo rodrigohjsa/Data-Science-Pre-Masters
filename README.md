@@ -12,3 +12,7 @@ Data Science pre-master's curriculum.
 - Develop Python programming skills.
 - Learn data manipulation and analysis.
 - Build a portfolio of data science projects.
+
+## Git practice
+
+This section was added on the week-06-git-practice branch.
