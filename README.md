@@ -16,3 +16,7 @@ Data Science pre-master's curriculum.
 ## Git practice
 
 This section was added on the week-06-git-practice branch.
+
+## Repository
+
+This project is version-controlled with Git and hosted on GitHub.
